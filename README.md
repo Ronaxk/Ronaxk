@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **singhronak749@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y56xtfUzqekgXwF1-Flih3pSgwjC-P4g/view?usp=sharing](https://drive.google.com/file/d/1y56xtfUzqekgXwF1-Flih3pSgwjC-P4g/view?usp=sharing)
-
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1y56xtfUzqekgXwF1-Flih3pSgwjC-P4g/view?usp=sharing](https://drive.google.com/file/d/1xAmnkcjw8nQR464vbVCTTCpmYLg_pufG/view?usp=sharing)]
 - ⚡ Fun fact **I am a chess nerd.**
 
 <h3 align="left">Connect with me:</h3>
