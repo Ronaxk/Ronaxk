@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronak Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **React, Django**
+- 🌱 I’m currently learning **Django, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://portfolioronakk.netlify.app](https://portfolioronakk.netlify.app)
 
