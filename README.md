@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolioronakk.netlify.app](https://portfolioronakk.netlify.app)
 
-- 💬 Ask me about **Python, JavaScript, HTML, CSS.**
+- 💬 Ask me about **Python, JavaScript, Devops and Flask.**
 
 - 📫 How to reach me **singhronak749@gmail.com**
 
